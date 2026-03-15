@@ -1,2 +1,2 @@
-FROM alphaline:9
+FROM nginx
 RUN echo "Hello world"
