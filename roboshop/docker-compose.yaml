@@ -1,17 +1,3 @@
-# services:
-#   catalogue:
-#     build:
-#       context: ./catalogue
-#       dockerfile: Dockerfile
-#       image: kondarao/catalogue:v1
-#       container_name: catalogue
-      
-# networks:
-#   default:
-#     driver: bridge
-#     name: roboshop
-#     external: false # true if you have created network manually using docker network command
-
 services:
   catalogue:
     build:
