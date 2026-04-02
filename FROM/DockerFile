@@ -1,2 +1,3 @@
 FROM alphaline:9
 RUN echo "Hello world"
+RUN echo "hi fine thank you"
