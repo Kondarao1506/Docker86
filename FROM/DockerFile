@@ -1,4 +1,4 @@
 FROM alphaline:9
 RUN echo "Hello world"
 RUN echo "hi fine thank you"
-RUN echo "hi fine thank you"
+RUN echo "hi fine thank you iam from git"
